@@ -209,7 +209,7 @@ export default function App() {
               <h1 className="text-xl font-bold tracking-tight text-red-500 ">
                 PDC
               </h1>
-              <h1 className="text-xl font-bold tracking-tight text-blue-400">
+              <h1 className="text-xl font-bold tracking-tight text-red-400">
                 Inventory
               </h1>
             </div>
