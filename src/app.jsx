@@ -206,10 +206,10 @@ export default function App() {
               <Icon name="Database" size={24} />
             </div>
             <div className="flex items-center gap-1.5">
-              <h1 className="text-xl font-bold tracking-tight text-red-500 ">
+              <h1 className="text-xl font-bold tracking-tight text-blue-500 ">
                 PDC
               </h1>
-              <h1 className="text-xl font-bold tracking-tight text-red-400">
+              <h1 className="text-xl font-bold tracking-tight text-blue-400">
                 Inventory
               </h1>
             </div>
